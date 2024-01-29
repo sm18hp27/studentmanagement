@@ -1,4 +1,4 @@
-package com.greatlearning.student.studmgmtsys;
+package com.greatlearning.student.studmanagementsys;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
